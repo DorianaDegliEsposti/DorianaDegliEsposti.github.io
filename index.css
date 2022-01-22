@@ -1,0 +1,30 @@
+/*html {
+	height:100%;
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+}*/
+
+body {
+	background-color: #ebdbff;
+}
+
+div {
+	width: 30em;
+	margin: 2em auto;
+}
+
+h1 {
+	font-family: arial;
+	text-align: center;
+	margin: 0;
+}
+
+#logo {
+	width: 100%;
+}
